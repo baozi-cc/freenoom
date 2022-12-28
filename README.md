@@ -238,7 +238,7 @@ $ cd /data/wwwroot/freenom/ && php run
 
 ### 🤣  本项目最简单的使用方法
 上面说了一堆都是基于你有自己的`VPS`的情况下，如果没有`VPS`又想自动续期`Freenom`的域名，或者单纯不想配置那么多东西，
-可以直接在`Github Actions`上跑本项目，`Github Actions`会为项目创建一个虚拟环境，并在执行后自动销毁。
+可以直接在`Github Actions`上跑本项目，`Github Actions`会为项目创建一个虚拟环境，并在执行后自动销毁asd。
 
 #### 只需简单 6 步
 
